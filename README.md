@@ -101,13 +101,13 @@ sistema-de-analise-de-desempenho-academico/
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/Ana-BeatrizSilva/Sistema_de_Avaliacao_Academica.git
+git clone https://github.com/Ana-BeatrizSilva/sistema-de-analise-de-desempenho-academico.git
 ```
 
 ### 2. Acesse a pasta do projeto
 
 ```bash
-cd Sistema_de_Avaliacao_Academica
+cd sistema-de-analise-de-desempenho-academico
 ```
 
 ### 3. Instale as dependências
